@@ -75,6 +75,20 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📷 Screenshots
 
-*Add a few screenshots or GIFs of your app here.*
+<img width="1900" height="776" alt="Homepage" src="https://github.com/user-attachments/assets/cdaa5c36-2bbe-45d0-9642-2bcee9b910b9" />
+
+---
+
+<img width="1856" height="875" alt="startups" src="https://github.com/user-attachments/assets/e9ceadf4-334d-40f6-87f0-f3971666e3b4" />
+
+---
+
+<img width="1852" height="877" alt="suggestions" src="https://github.com/user-attachments/assets/8949eabb-c02b-463d-a6fb-592af87e7848" />
+
+---
+
+<img width="1852" height="875" alt="author" src="https://github.com/user-attachments/assets/b7ed98e3-1db5-49ac-9ef0-4f70cd0cbfd6" />
+
+
 
 
